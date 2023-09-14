@@ -1,0 +1,1 @@
+app = Flask(__name__, template_folder='C:\\Users\\leona\\invoice_app_flask.py\\templates')
